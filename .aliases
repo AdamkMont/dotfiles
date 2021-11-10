@@ -1,0 +1,7 @@
+alias v='nvim'
+alias l='ls -lAhg'
+alias p='sudo pacman'
+alias p3=python3
+alias hib='sudo systemctl hibernate'
+alias ss='sudo systemctl'
+alias ruw='rfill unblock wlan'
